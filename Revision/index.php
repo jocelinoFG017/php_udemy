@@ -8,7 +8,7 @@
       href="https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/estilo.css" />
     <title>Curso PHP</title>
   </head>
   <body>
