@@ -95,6 +95,72 @@
             </li>
           </ul>
         </div>
+        <div class="modulo azul">
+          <h3>Variáveis</h3>
+          <ul>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=basico">
+                Variáveis
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                Desafio Equação
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=atribuicao">
+                Atribuição
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=interpolacao">
+                Interpolação
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=var_variaveis">
+              Var_variaveis
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
+              Desafio variaveis
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=valor_referencia">
+              Valor X Referência
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=variaveis&file=constantes">
+              Constantes
+              </a>
+            </li>
+            
+          </ul>
+        </div>
+        <div class="modulo pink">
+          <h3>Controle #1</h3>
+          <ul>
+            <li>
+              <a href="exercicio.php?dir=controle&file=if_else">
+                IF ELSE
+              </a>
+            </li>           
+            <li>
+              <a href="exercicio.php?dir=controle&file=operadores_relacionais">
+                Operadores Relacionais
+              </a>
+            </li>  
+            <li>
+              <a href="exercicio.php?dir=controle&file=desafio_pi">
+                Desafio PI
+              </a>
+            </li>  
+          </ul>
+        </div>
       </nav>
     </div>
   </main>
