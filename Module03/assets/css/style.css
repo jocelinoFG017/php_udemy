@@ -130,3 +130,15 @@ body {
 
 .modulo.orange {border:2px solid orange;}
 .modulo.orange > h3 {background-color: orange;}
+
+.modulo.darkcyan {border:2px solid darkcyan;}
+.modulo.darkcyan > h3 {background-color: darkcyan;}
+
+p.divisao {
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+hr{
+    margin-top: 0px;
+}
