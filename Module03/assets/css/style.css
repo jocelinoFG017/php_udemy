@@ -119,8 +119,8 @@ body {
 .modulo.vermelho {border:2px solid red;}
 .modulo.vermelho > h3 {background-color: red;}
 
-.modulo.amarelo {border:2px solid yellow;}
-.modulo.amarelo > h3 {background-color: yellow;}
+.modulo.amarelo {border:2px solid yellowgreen;}
+.modulo.amarelo > h3 {background-color: yellowgreen;}
 
 .modulo.azul {border:2px solid blue;}
 .modulo.azul > h3 {background-color: blue;}

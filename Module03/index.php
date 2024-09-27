@@ -20,49 +20,109 @@
   <main class="principal">
     <div class="conteudo">
       <nav class="modulos">
-      <div class="modulo darkcyan">
+      <div class="modulo amarelo">
+          <h3>5. Array</h3>
+          <ul>
+            <li>
+              <a href="exercicio.php?dir=array&file=basico">
+                Básico
+              </a>
+            </li>   
+            <li>
+              <a href="exercicio.php?dir=array&file=map">
+                Mapa
+              </a>
+            </li>   
+            <li>
+              <a href="exercicio.php?dir=array&file=desafio_index">
+                Desafio Index
+              </a>
+            </li>    
+            <li>
+              <a href="exercicio.php?dir=array&file=desafio_meses">
+                Desafio Meses
+              </a>
+            </li>   
+            <li>
+              <a href="exercicio.php?dir=array&file=operacoes">
+                Operações
+              </a>
+            </li>   
+            <li>
+              <a href="exercicio.php?dir=array&file=desafio_sorteio">
+                Desafio Sorteio
+              </a>
+            </li>  
+            <li>
+              <a href="exercicio.php?dir=array&file=array_multidimensional">
+                Array Multidimensional
+              </a>
+            </li>  
+            <li>
+              <a href="exercicio.php?dir=array&file=constantes">
+                Array Constantes
+              </a>
+            </li> 
+            <li>
+              <a href="exercicio.php?dir=array&file=get">
+                $_GET
+              </a>
+            </li> 
+            <li>
+              <a href="exercicio.php?dir=array&file=post">
+                $_POST
+              </a>
+            </li> 
+            <li>
+              <a href="exercicio.php?dir=array&file=comparacao">
+                Comparação entre Arrays
+              </a>
+            </li> 
+          </ul>
+        </div>
+        <div class="modulo darkcyan">
           <h3>4. Controle #1</h3>
           <ul>
             <li>
               <a href="exercicio.php?dir=controle&file=if_else">
                 IF ELSE
               </a>
-            </li>           
+            </li>
             <li>
               <a href="exercicio.php?dir=controle&file=operadores_relacionais">
                 Operadores Relacionais
               </a>
-            </li>  
+            </li>
             <li>
               <a href="exercicio.php?dir=controle&file=desafio_pi">
                 Desafio PI
               </a>
-            </li>  
+            </li>
             <li>
               <a href="exercicio.php?dir=controle&file=operadores_logicos">
                 Operadores Lógicos
               </a>
-            </li>  
+            </li>
             <li>
               <a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">
                 Desafio Operadores Lógicos
               </a>
-            </li>  
+            </li>
             <li>
               <a href="exercicio.php?dir=controle&file=operador_ternario">
                 Operador Ternário
               </a>
-            </li>  
+            </li>
             <li>
               <a href="exercicio.php?dir=controle&file=switch">
                 Switch
               </a>
-            </li> 
+            </li>
             <li>
               <a href="exercicio.php?dir=controle&file=desafio_switch">
                 Desafio Switch
               </a>
-            </li> 
+            </li>
           </ul>
         </div>
         <div class="modulo azul">
@@ -90,25 +150,25 @@
             </li>
             <li>
               <a href="exercicio.php?dir=variaveis&file=var_variaveis">
-              Var_variaveis
+                Var_variaveis
               </a>
             </li>
             <li>
               <a href="exercicio.php?dir=variaveis&file=desafio_variaveis">
-              Desafio variaveis
+                Desafio variaveis
               </a>
             </li>
             <li>
               <a href="exercicio.php?dir=variaveis&file=valor_referencia">
-              Valor X Referência
+                Valor X Referência
               </a>
             </li>
             <li>
               <a href="exercicio.php?dir=variaveis&file=constantes">
-              Constantes
+                Constantes
               </a>
             </li>
-            
+
           </ul>
         </div>
         <div class="modulo vermelho">
@@ -186,7 +246,7 @@
             </li>
           </ul>
         </div>
-        
+
       </nav>
     </div>
   </main>
