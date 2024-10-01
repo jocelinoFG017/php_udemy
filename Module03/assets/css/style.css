@@ -134,6 +134,9 @@ body {
 .modulo.darkcyan {border:2px solid darkcyan;}
 .modulo.darkcyan > h3 {background-color: darkcyan;}
 
+.modulo.black {border:2px solid #000;}
+.modulo.black > h3 {background-color: #000;}
+
 p.divisao {
     margin-bottom: 0px;
     font-weight: bold;
