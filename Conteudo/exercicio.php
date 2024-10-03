@@ -8,11 +8,10 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100..800&display=swap"
     rel="stylesheet" />
-  <link rel="stylesheet" href="assets/css/estilo.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
   <link rel="stylesheet" href="assets/css/exercicio.css" />
   <title> Exercício</title>
 </head>
-
 
 <body class="exercicio">
   <header class="cabecalho">

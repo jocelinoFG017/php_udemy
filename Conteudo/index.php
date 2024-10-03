@@ -20,6 +20,51 @@
   <main class="principal">
     <div class="conteudo">
       <nav class="modulos">
+        <div class="modulo orange">
+          <h3>7. Funções</h3>
+          <ul>
+            <li>
+              <a href="exercicio.php?dir=funcoes&file=escopo">
+                Função & Escopo
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=funcoes&file=args_retorno">
+                Argumentos e Retorno
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=funcoes&file=desafio_palindromo">
+                Desafio Palindromo
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=funcoes&file=args_variaveis">
+                Argumentos Variáveis
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=funcoes&file=args_padrao">
+                Argumentos Padrão
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=funcoes&file=usando_tipos">
+                Usando Tipos
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=funcoes&file=funcao_anonima">
+                Função Anônima
+              </a>
+            </li>
+            <!-- <li>
+              <a href="exercicio.php?dir=funcoes&file=closure_callable">
+                Closure/Callable
+              </a>
+            </li> -->
+          </ul>
+        </div>
         <div class="modulo pink">
           <h3>6. Repetições</h3>
           <ul>

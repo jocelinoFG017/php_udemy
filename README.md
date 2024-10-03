@@ -9,3 +9,4 @@ Repository dedicated to all content learned in a PHP course realized in Udemy Pl
 #### 4. Control #1
 #### 5. Array
 #### 6. Control #2
+#### 7. Functions

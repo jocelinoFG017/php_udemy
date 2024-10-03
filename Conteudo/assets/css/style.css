@@ -137,6 +137,9 @@ body {
 .modulo.black {border:2px solid #000;}
 .modulo.black > h3 {background-color: #000;}
 
+.modulo.brown {border:2px solid brown;}
+.modulo.brown > h3 {background-color: brown;}
+
 p.divisao {
     margin-bottom: 0px;
     font-weight: bold;
