@@ -1,6 +1,7 @@
 <h1 class="titulo">Operador Ternário</h1>
 
 <?php
+
 $idade = 70;
 $status;
 

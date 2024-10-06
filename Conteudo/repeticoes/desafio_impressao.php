@@ -1,6 +1,5 @@
 <h1 class="titulo">Desafio Impressão</h1>
 
-
 <?php
 /**
  * Enunciado:
@@ -8,7 +7,6 @@
  *  - Resolver com for e foreach
  *  - Valores Esperados: AAA, CCC, EEE
  */
-
 
  $array = [
     "AAA",
@@ -20,12 +18,11 @@
  ];
 
  for ($i = 0; $i < count($array);$i++){
-    
     if($i % 2 == 0){
-        print_r($array[$i]);
+         print_r($array[$i]);
     }
-
  }
+
 echo "<hr>";
 
  foreach($array as $chave => $valor){
@@ -33,3 +30,4 @@ echo "<hr>";
         print_r($valor);
     }
  }
+ 

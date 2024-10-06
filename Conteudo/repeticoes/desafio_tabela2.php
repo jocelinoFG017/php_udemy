@@ -1,6 +1,5 @@
 <h1 class="titulo">Desafio tabela #2</h1>
 
-
 <form action="#" method="post">
     <div>
         <label for="linhas">Linhas</label>
@@ -49,11 +48,9 @@ for($i = 0; $i < $linhas; $i++){
         border-collapse: collapse;
         margin: 20px 0px;
     }
-
     table tr {
         border: 1px solid #444;
     }
-
     table td {
         padding: 10px 20px;
     }

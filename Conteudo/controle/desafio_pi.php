@@ -1,6 +1,7 @@
 <h1 class="titulo">Desafio PI</h1>
 
 <?php
+
 echo pi();
 
 $pi = 3.14;

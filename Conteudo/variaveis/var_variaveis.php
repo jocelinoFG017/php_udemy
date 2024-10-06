@@ -1,6 +1,7 @@
 <h1 class="titulo">Variáveis Variaávis</h1>
 
 <?php
+
 $a = "ValorA";
 $$a = "valorAA";
 

@@ -13,5 +13,3 @@ echo PHP_INT_MIN, "</br>";
 echo 017, "</br>"; // base octal
 echo 0b11, "</br>"; // base binária
 echo 0x11; // base hexadecimal
-
-?>

@@ -1,7 +1,7 @@
 <h1 class="titulo">Operações Aritméticas</h1>
 
-
 <?php
+
 echo 1 + 1, "<br>"; // soma
 
 echo 1 + 0.25, "<br>"; // soma

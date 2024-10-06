@@ -38,4 +38,3 @@ if($age >= 60 && $sex === 'F'){
 }else{
     echo "Senta e chora";
 }
-

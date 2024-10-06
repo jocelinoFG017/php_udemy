@@ -32,5 +32,3 @@ echo '<br>' . strlen('Quantas Letras?');
 echo '<br>' . mb_strlen('Eu também?', "utf-8");
 echo '<br>' . substr('Só uma parte mesmo', 7,6);
 echo '<br>' . str_replace('isso', 'aquilo', 'Trocar isso'); // troca isso por aquilo no texto Trocar isso
-
-
