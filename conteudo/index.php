@@ -20,36 +20,37 @@
   <main class="principal">
     <div class="conteudo">
       <nav class="modulos">
-        <!-- <div class="modulo verde">
-          <h3>1. Básico</h3>
+        <div class="modulo black">
+          <h3>8. Paradigma O.O.</h3>
           <ul>
             <li>
-              <a href="exercicio.php?dir=basico&file=ola">
-                Olá PHP
+              <a href="exercicio.php?dir=classes_objetos&file=classe">
+              Primeira Classe
               </a>
             </li>
             <li>
-              <a href="exercicio.php?dir=basico&file=html">
-                Integração HTML
+              <a href="exercicio.php?dir=classes_objetos&file=desafio_data">
+              Desafio Data
               </a>
             </li>
             <li>
-              <a href="exercicio.php?dir=basico&file=css">
-                Integração CSS
+              <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
+              Construtor e Destrutor
               </a>
             </li>
             <li>
-              <a href="exercicio.php?dir=basico&file=comentarios">
-                Comentários PHP
+              <a href="exercicio.php?dir=classes_objetos&file=herenca">
+              Herança
               </a>
             </li>
-            <li>
-              <a href="exercicio.php?dir=basico&file=desafio">
-                Desafio
+             <!-- <li>
+              <a href="exercicio.php?dir=classes_objetos&file=herenca">
+              Herança
               </a>
-            </li>
+            </li> -->
+            
           </ul>
-        </div> -->
+        </div>
         <div class="modulo orange">
           <h3>7. Funções</h3>
           <ul>

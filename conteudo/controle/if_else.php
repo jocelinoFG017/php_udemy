@@ -11,10 +11,9 @@
 // {
 //     echo "sentença de código";
 // }
-
 if(true){
     echo "verdadeiro<br>";
 }else{
-    echo "falso<br>";
+    // echo "falso<br>";
 }
 echo "fim";
