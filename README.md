@@ -5,12 +5,13 @@
 Repository dedicated to all content learned in a PHP course realized in Udemy Plataform
 
 ### Topics
-#### 1. Basic
-#### 2. Types
-#### 3. Variables
-#### 4. Control #1
-#### 5. Array
-#### 6. Control #2
-#### 7. Functions
-#### 8. Paradigm OO
-#### 9. ...
+#### 01. Basic
+#### 02. Types
+#### 03. Variables
+#### 04. Control #1
+#### 05. Array
+#### 06. Control #2
+#### 07. Functions
+#### 08. Paradigm OO
+#### 09. Includes
+#### 10. ...

@@ -25,30 +25,74 @@
           <ul>
             <li>
               <a href="exercicio.php?dir=classes_objetos&file=classe">
-              Primeira Classe
+                Primeira Classe
               </a>
             </li>
             <li>
               <a href="exercicio.php?dir=classes_objetos&file=desafio_data">
-              Desafio Data
+                Desafio Data
               </a>
             </li>
             <li>
               <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
-              Construtor e Destrutor
+                Construtor e Destrutor
               </a>
             </li>
             <li>
-              <a href="exercicio.php?dir=classes_objetos&file=herenca">
-              Herança
+              <a href="exercicio.php?dir=classes_objetos&file=heranca">
+                Herança
               </a>
             </li>
-             <!-- <li>
-              <a href="exercicio.php?dir=classes_objetos&file=herenca">
-              Herança
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=visibilidade">
+                Visibilidade
               </a>
-            </li> -->
-            
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=static">
+                Membros Estáticos
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=interface">
+                Interface
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=classe_abstrata">
+                Classe abstrata
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=desafio_7_erros">
+                Desafio 7 erros
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=final">
+                Final
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=traits_01">
+                Traits #1
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=traits_02">
+                Traits #2
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=magic_methods">
+                Métodos Mágicos
+              </a>
+            </li>
+            <li>
+              <a href="exercicio.php?dir=classes_objetos&file=polimorfismo">
+                Polimorfismo
+              </a>
+            </li>
           </ul>
         </div>
         <div class="modulo orange">
