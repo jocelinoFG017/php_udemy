@@ -24,7 +24,7 @@ class Usuario {
 
 }
 
-$user  = new Usuario();
+// $user  = new Usuario();
 
 var_dump($user->validarString('  '));
 var_dump($user->validacaoSimples('  '));

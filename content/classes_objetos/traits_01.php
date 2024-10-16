@@ -25,7 +25,7 @@ class Usuario {
     }
 }
 
-$usuario = new Usuario();
+// $usuario = new Usuario();
 
 var_dump($usuario->validarStringBasica('   '));
 echo "<br>";
