@@ -1,4 +1,7 @@
 <?php 
+namespace Persona;
+
+// echo __NAMESPACE__ . '<br>';
 
 class Pessoa
 {

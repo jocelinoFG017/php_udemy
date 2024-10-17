@@ -14,4 +14,5 @@ Repository dedicated to all content learned in a PHP course realized in Udemy Pl
 #### 07. Functions
 #### 08. Paradigm OO
 #### 09. Includes
-#### 10. ...
+#### 10. Namespace
+#### 11. ...

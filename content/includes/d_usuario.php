@@ -1,6 +1,13 @@
 <?php 
+namespace User;
+
+use Persona\Pessoa;
+
+// echo __NAMESPACE__ . '<br>';
 
 include('d_pessoa.php');
+
+
 class Usuario extends Pessoa{
     public $login;
 
