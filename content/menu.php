@@ -1,4 +1,30 @@
 <nav class="modulos">
+    <div class="modulo azul">
+        <h3>11. Trat. de Erro</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=try_catch">
+                    Try/Catch
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">
+                    Erros Personalizados
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv_test">
+                    Desafio Intdiv
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=tratamento_erro&file=handler">
+                    Error Handler
+                </a>
+            </li>
+
+        </ul>
+    </div>
     <div class="modulo dark-orange">
         <h3>10. Namespace</h3>
         <ul>
