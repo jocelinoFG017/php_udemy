@@ -27,6 +27,16 @@
                     Upload
                 </a>
             </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=download">
+                    Download
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=imagens">
+                    Desafio Imagens
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo vermelho">
