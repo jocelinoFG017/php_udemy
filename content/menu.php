@@ -1,4 +1,24 @@
 <nav class="modulos">
+    <div class="modulo vermelho">
+        <h3>12. Sessão e Cookies</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=basico">
+                    Sessão
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=sessao&file=gerenciando_sessao">
+                    Gerenciando Sessão
+                </a>
+            </li>
+             <!-- <li>
+                <a href="exercicio.php?dir=sessao&file=basico">
+                    Sessão #1
+                </a>
+            </li> -->
+        </ul>
+    </div>
     <div class="modulo azul">
         <h3>11. Trat. de Erro</h3>
         <ul>

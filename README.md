@@ -17,4 +17,5 @@ Repository dedicated to all content learned in a PHP course realized in Udemy Pl
 #### 10. Namespace
 #### 11. Errors
 #### 12. Sections and Cookies
-#### 13. ...
+#### 13. API
+#### 14. ...
