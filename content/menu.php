@@ -1,4 +1,19 @@
 <nav class="modulos">
+<div class="modulo darkcyan">
+        <h3>13. API</h3>
+        <ul>
+            <li>
+                <a href="exercicio.php?dir=api&file=datas_01">
+                    Datas #1
+                </a>
+            </li>
+             <!-- <li>
+                <a href="exercicio.php?dir=api&file=basico">
+                    Sessão #1
+                </a>
+            </li> -->
+        </ul>
+    </div>
     <div class="modulo vermelho">
         <h3>12. Sessão e Cookies</h3>
         <ul>
@@ -12,11 +27,6 @@
                     Gerenciando Sessão
                 </a>
             </li>
-             <!-- <li>
-                <a href="exercicio.php?dir=sessao&file=basico">
-                    Sessão #1
-                </a>
-            </li> -->
         </ul>
     </div>
     <div class="modulo azul">

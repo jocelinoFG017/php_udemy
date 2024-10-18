@@ -33,12 +33,10 @@ if($_POST['email']) {
     }
   }
 
-
   if (!$_SESSION['usuario']) {
     $_SESSION['erros'] = ['Usuario\senha inválida!'];
   }
 }
-
 ?>
 
 <!DOCTYPE html>
