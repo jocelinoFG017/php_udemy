@@ -5,7 +5,8 @@
 $a = "ValorA";
 $$a = "valorAA";
 
-echo "$a {$$a} ${$a} $ValorA";
+// echo "$a {$$a} ${$a} $ValorA"; // forma depreciada
+echo "$a {$$a} $ValorA";
 
 $epa = 'opa';
 $opa = 'vish';

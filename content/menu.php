@@ -7,11 +7,26 @@
                     Datas #1
                 </a>
             </li>
-             <!-- <li>
-                <a href="exercicio.php?dir=api&file=basico">
-                    Sessão #1
+            <li>
+                <a href="exercicio.php?dir=api&file=datas_02">
+                    Datas #2
                 </a>
-            </li> -->
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=escrever_arquivo">
+                    Escrever Arquivo
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=ler_arquivo">
+                    Ler Arquivo
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=api&file=upload">
+                    Upload
+                </a>
+            </li>
         </ul>
     </div>
     <div class="modulo vermelho">

@@ -25,7 +25,7 @@ echo "$indice = $dadosCompletos[$indice]";
 echo "<br>";
 
 echo "{$dadosCompletos['idade']}";
-echo "${dadosCompletos['idade']}"; // forma depreciada
+// echo "${dadosCompletos['idade']}"; // forma depreciada
 
 unset($dadosCompletos['nome']);
 echo "<br>";
