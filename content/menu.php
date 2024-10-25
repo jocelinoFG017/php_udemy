@@ -24,7 +24,42 @@
             </li>
             <li>
                 <a href="exercicio.php?dir=db&file=excluir_1">
-                    Excluir Registros
+                    Excluir Registro #01
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_2">
+                    Excluir Registro #02
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=inserir_2">
+                    Inserir Registro #02
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=alterar">
+                    Alterar Registro
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=inserir_pdo">
+                    Inserir PDO
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=consultar_pdo">
+                    Consultar PDO
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=excluir_pdo">
+                    Excluir PDO
+                </a>
+            </li>
+            <li>
+                <a href="exercicio.php?dir=db&file=alterar_pdo">
+                    Alterar PDO
                 </a>
             </li>
 

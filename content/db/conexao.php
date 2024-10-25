@@ -5,7 +5,6 @@ function novaConexao($banco = 'curso_php'){
     $usuario = 'root';
     $senha = "";
 
-
     $conexao = new mysqli($servidor, $usuario, $senha, $banco);
 
     if($conexao->connect_error){

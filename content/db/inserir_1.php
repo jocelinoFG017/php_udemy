@@ -15,7 +15,6 @@ VALUES (
     13000.87
 )";
 
-
 $conexao = novaConexao();
 $resultado = $conexao->query($sql);
 
