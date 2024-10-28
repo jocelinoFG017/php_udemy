@@ -20,4 +20,4 @@ Repository dedicated to all content learned in a PHP course realized in Udemy Pl
 #### 13. API
 #### 14. Forms
 #### 15. Database
-#### 16. Final Project
+#### 16. Final Project (Added in other repository)
