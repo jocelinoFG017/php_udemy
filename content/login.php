@@ -1,7 +1,9 @@
 <?php
 session_start();
+ini_set("display_errors", 0);
 
 $email = $_POST['email'];
+// var_dump($_POST['email']);
 $senha = $_POST['senha'];
 
 if($_POST['email']) {
