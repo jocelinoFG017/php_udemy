@@ -1,11 +1,31 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Exercícios Html</title>
 </head>
 <body>
-    
+    <header>
+        <h1>Exercícios HTML</h1>
+    </header>
+    <nav>
+        <a href="exercicios/teste.html">00 -- teste</a> |
+        <a href="exercicios/teste1.html">01 -- teste1</a>
+    </nav>
+    <section id="conteudo"></section>
+    <footer>Extra Html do curso de PHP 7</footer>
+    <script>
+        document.querySelectorAll('a').forEach(link => {
+            const conteudo = document.getElementById('conteudo')
+
+            link.onclick = function(e){
+                e.preventDefault()  // previne o comportamento padrão, navegação entre páginas
+                fetch(link.href)  // requisição ajax encima do atributo href que me da o link da página
+                .then(resp => resp.text())  // then me retorna a resposta
+                .then(html => conteudo.innerHTML = html)  // substitui a informação da section conteudo
+            }
+        })
+    </script>
 </body>
 </html>
