@@ -20,10 +20,15 @@ Repository dedicated to all content learned in a PHP course realized in Udemy Pl
 #### 13. API
 #### 14. Forms
 #### 15. Database
-#### 16. Final Project (Added in other repository)
+#### 16. Final Project -> innout (Added in other repository)
 
 ### Extras
 
+#### Web Concepts
 #### Javascript
 #### Html
 #### Css
+#### Integration HTML, CSS and JS
+#### Ajax
+#### Jquery
+#### Relational Database
