@@ -4,5 +4,4 @@ values
 ('Novo', 'NV', 'Sul', 2.54),
 ('Mais Novo', 'MN', 'Norte', 2.51);
 
-
 SELECT * from estados;
