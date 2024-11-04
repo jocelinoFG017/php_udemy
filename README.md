@@ -4,7 +4,7 @@
 ##### Instructor: Leonardo M. Leitao
 Repository dedicated to all content learned in a PHP course realized in Udemy Plataform
 
-### Topics
+## Topics
 #### 01. Basic
 #### 02. Types
 #### 03. Variables
@@ -22,13 +22,13 @@ Repository dedicated to all content learned in a PHP course realized in Udemy Pl
 #### 15. Database
 #### 16. Final Project -> innout (Added in other repository)
 
-### Extras
+## Extras
 
-#### Web Concepts
-#### Javascript
-#### Html
-#### Css
-#### Integration HTML, CSS and JS
-#### Ajax
-#### Jquery
-#### Relational Database
+#### 01. Web Concepts
+#### 02. Javascript
+#### 03. Html
+#### 04. Css
+#### 05. Integration HTML, CSS and JS
+#### 06. Ajax
+#### 07. Jquery
+#### 08. Relational Database
